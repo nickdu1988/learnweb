@@ -9,8 +9,15 @@
   font-weight: normal;
   font-style: normal;
 }
+
+
+html, body {
+  height: 100%;
+}
 body {
+  display: flex;
   font-size: 10px;
+  background: rgb(149, 194, 215);
 }
 
 a {
